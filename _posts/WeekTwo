@@ -1,0 +1,16 @@
+---
+layout: post
+title: Week Two
+---
+
+### Past week
+This past week in OOP focused a lot on our first project: calculating the max number of [Collatz[(https://en.wikipedia.org/wiki/Collatz_conjecture) cycles in a range of numbers. While a working brute force algorithm is fairly easy to implement (less than 15 minutes from start to finish), Downing has us doing a lot of accessory parts. There are tests to write, Github repositories to connect, Git branches to create and properly use, timeframes to estimate, platforms to set up, and Makefiles to modify. All of which are very relevant in the real world, and good to have experience with. 
+
+### What’s in my way
+I have nothing specifically in the way of this class, but I would argue that this class is in the way of the career fair. With the career fair coming up, school work always ends up higher on the priority list than updating my resume, and I never set aside much time to prepare.
+
+### What will I do next week
+This next week I will work on optimizing the code for the first project, including a couple of different levels of optimization. I am also going to write a Perl script to change my RunCollatz.out file anytime I add new tests to the TestCollatz.c++ file. I’ve created a similar Perl script in the past so this should be a fairly quick project. 
+
+### Tip-of-the-week
+Get ready for the career fair! Start updating your resume, assembling an business-appropriate outfit, and researching companies you are interested in this week.
