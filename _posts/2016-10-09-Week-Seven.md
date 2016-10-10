@@ -15,4 +15,4 @@ I finally have a free week. Next week I start interning at Under Armour though, 
 Next week I look forward to being done with all my midterms. I am going to start working on the next project. I am not making the same mistake as last time and have already found a partner.
 
 ### Tip-of-the-week###
-
+Paying attention and taking notes in class seemed to be the most beneficial way to study for the test. Looking through my own notes from the class helped alot more than reading the notes he posted, but they were also a good supplement. So pay attention in class!
