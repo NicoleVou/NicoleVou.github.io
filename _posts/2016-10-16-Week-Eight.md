@@ -15,4 +15,4 @@ I start my part-time internship at Under Armour tomorrow. I am super excited but
 Next week we will be finishing up our OOP project. I do not think it will take too much longer. So far this seems like the easier of the projects and I am not too worried about it. I am extremely excited to be back at Under Armour. I very much enjoy the app I work on, the work I do on the app, the people, and the workplace. Plus, free lunch on Fridays! Whoo!
 
 ### Tip-of-the-week###
-
+Take preventitve measures on keeping yourself healthy. Mid to end of a semester is always a bad time to get sick and makes your life so much harder. I felt a cold coming on this week (gotten from my roommate) and I immediately upped my intake of vitamin C, took a bunch of pre-cold medicine, and cough medicine. I beat it before it got to me and I know my life is so much easier because of it.
