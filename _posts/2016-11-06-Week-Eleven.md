@@ -12,6 +12,7 @@ In class this past week we continued to compare the stack vs. the heap, and the 
 This week not much is in my way. I just have the usual homework in practical linear algebra and work at Under Armour.
 
 ### What will I do next week###
-I finally have a lighter week next week. 
+I finally have a lighter week next week. I will be doing some interview prep and applying to more summer internships. I have a couple cover letter to write for various companies. I have a lot of working 
 
 ### Tip-of-the-week###
+Double check that your tests and testing output are correct before assuming it is your code that is wrong. While that is rarely the case, it happened to my partner and I this week which cost us 6 hours and 20 points.
