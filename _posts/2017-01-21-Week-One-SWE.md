@@ -3,6 +3,8 @@ layout: post
 title: Week One SWE
 ---
 
+Yo yo yo, it's good to be back in the blogging business!
+
 ### Past week
 This past week was a pretty hectic "syllabus week". My class schedule was different everyday this week, and I missed several of the classes that ended up on the final rendition of my schedule. At my part-time internship with Under Armour Connected Fitness, we had a huge deadline for a new feature to be implemented in the MapMyFitness app, with code needing to be in by Thursday at 3pm. Although I usually work a max of 20 hours a week, I had to work extra in order to get my tasks done on time. This was the first time I have encountered this situation in programming in the 'real world', and its a different pressure than strugglign to finish coding assignments on time. You've got the company and coworkers depending on you, millions of people that will be using the code, and more is at stake than just your grade.
 
