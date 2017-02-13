@@ -4,16 +4,16 @@ title: Week Two SWE
 ---
 
 ### Experience in this class 
-So far my experience in this class is very similar to my experience in OOP. This first project is the same (different language though), the quiz questions have been the same, and I've even taken the same exact notes as I did last semester. This past week we talked about some of the optimizations for the Collatz conjecture: a couple algorithmic tricks, and a couple using caches. The different caches to implement are lazy, eager, and meta. Lazy caches load in the values as the values get computed through the program running, eager caches compute everything before the code runs, and meta caches already have all the values stored in them. We also discussed ways that methods can communicate with eachother: 1. return values 2. global variables (which are frowned upon in Python) and 3. by passing objects. 
+This weeked in SWE we discussed python iterables and iterators. An object has no next or get next methods, and one can only iterate over one by using an iterator: this allows many users to iterate over an object at the same time. Iterators in python have the very interesting property that once it reaches the end of an object, instead of returning a null or ending value, it raises an exception. Another strange feature in python is the ability to access elements in an object using positive or negative indexes, where negative indexes subtract from the end of the object.
 
 ### Past week
-This past week was very busy. Being as it was only the second week of classes and I'm already exhausted, I'm a little nervous for the rest of the semester. I had several homework assignments and readings to do, along with my usual 20 hours at UA, gymnastics practices, and our home gymnastics competition which took all day Saturday. I just got back into competitive gymanstics (with the UT club competitive team) and this was my first meet (gymnastics competition) in several years. Needless to say, my body hurts.
+This past week was difficult due to a grpahics project I had due on Friday. I spent most of my past week in the GDC lab with my partner frantically trying to debug the ray tracing assignment. We finally finished with 30 minutes to spare. For SWE, my partner and I touched upon a game plan to complete the project by Thursday and started by setting up our repo.
 
 ### What’s in my way
-How little time there is in the week. I've got a lot of stuff to do and having more time would be nice. Especially since I have a 10 hour drive to and from New Orleans.
+I have another graphics project due this week, along with the Project 2: Netflix for SWE. It's gonne be difficult to complete both of those with my other homework assignments for Computer Networks and Accouting, along with work and working out.
 
 ### What will I do next week
-Next week I will be physically recovering from last week's gymnastics meet, only to be getting ready for another meet in New Orleans this week. I need to stay extremely focused and studious this week so that I do not need to worry about too much schoolwork during the whole trip. I need to start the graphics assignment, finish Collatz (implement caches), complete the accounting assignemnts and get ready for next weekend's gymnastics meet.
+Next week I will also be in the lab all week working on Graphics and Netflix. I will be physically recovering from 4 gymnastics competitions in a row (four weekends in a row) by taking a bunch of ice and epsom salt baths. Also I need to go to the doctor to get a wrist injury checked out.
 
 ### Tip-of-the-week
-Get enough sleep. "Sleep is for the weak" has been pretty popualr lately, but don't listen to that. You need sleep to be strong. Both mentally and physcially. I, personally, function at a much lower level when I do not get enough.
+Don't forget to do the blog post (Whoops)
