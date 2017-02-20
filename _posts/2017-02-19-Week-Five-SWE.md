@@ -4,7 +4,7 @@ title: Week Five SWE
 ---
 
 ### Experience in this class 
-This past week in class was exciting as I was called on twice this week! We discussed the reduce method, closures, iterables, iterators, generators, and lambdas. A lambda is an unamed function that can be used for all sorts of neat things in python, and can really enhances the readability and elegance of your code. 
+This past week in class was exciting as I was called on twice this week! We discussed the reduce method, closures, iterables, iterators, generators, and lambdas. A lambda is an unamed function that can be used for all sorts of neat things in python, and can really enhance the readability and elegance of your code. 
 
 ### Past week
 This past week my partner and I finished up the Netflix project, which seemed easier this go around than last time in OOP. I worked on my Computer Graphics project during most of my free time, completed my online accouting homework, computer networks homework, and some tickets at work. The career fair occurred last week, and it was the first one in my time at UT that I haven't gone. I had a ton of work to do and since I already have an internship lined up for the summer I saw no need to go. My sister was also in town visiting this weekend and I had a great time hanging out with her.
