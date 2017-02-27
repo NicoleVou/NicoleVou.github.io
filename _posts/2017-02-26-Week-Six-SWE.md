@@ -16,3 +16,4 @@ literally err-thang
 Next week will be a frantic struggle between studying for SWE, studying for Computer Networks, and working on the next Computer Graphics assignment.
 
 ### Tip-of-the-week
+Read other people's Tip-of-the-week! 
