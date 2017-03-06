@@ -4,11 +4,11 @@ title: Week Seven SWE
 ---
 
 ### Experience in this class 
-We discussed some of the strange properties Python has in regards to subclasses and function arguments. We learned about argument unpacking, numerous arguments, and sending in arguments with a dictionary.
+We discussed some of the strange properties Python has in regards to subclasses and function arguments. We learned about argument unpacking, numerous arguments, and sending in arguments with a dictionary. Alot of the week was spent studying for the test we had on Thursday. 
 
 
 ### Past week
-This past week I took two midterms, one in Computer Networks and one in SWE. I worked on my computer graphics project, got some tickets done at Under Armour, and completed my online accouting homework.
+This past week I took two midterms, one in Computer Networks and one in SWE. I worked on my computer graphics project, got some tickets done at Under Armour, and completed my online accouting homework. Since I hurt my wrist in gymnastics, I swam a couple times at Greg's outdoor lap pool for excercise.
 
 This SWE test took me off guard. Since I was in Downing's class last semester and I assumed the tests would be very similar. I was ill-prepared for an all multiple choice test (I expected short answer questions) and did not do as well as I would have liked. Like Big Sean, I will bounce back and ace the final exam. 
 
