@@ -4,7 +4,7 @@ title: Week Seven SWE
 ---
 
 ### Experience in this class 
-We discussed some of the strange properties Python has in regards to subclasses and function arguments.
+We discussed some of the strange properties Python has in regards to subclasses and function arguments. We learned about argument unpacking, numerous arguments, and sending in arguments with a dictionary.
 
 
 ### Past week
