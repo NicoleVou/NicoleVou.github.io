@@ -4,7 +4,7 @@ title: Week Ten SWE
 ---
 
 ### Experience in this class 
-
+In class this week we discussed correct formating for xml files, and how to check the correctness of the format using lint. We also went over ways to combine relations in sql. On Wednesday we had a talk for Atlassian. I enjoyed the talk because I use a lot of Atlassian products for my internship at Under Armour.
 
 ### Past week  
 Last week I spent a lot of time working on my Computer Graphics project. I also spent more time than usual studying for Computer Networks since we had an excercise, homework, and a test all in one week. My SWE group started setting up the database for Project 4. I almost forgot to do my online accounting homework, but luckily was able to race through and get it all done before the deadline. 
