@@ -12,7 +12,7 @@ This past week I had a presentation in my Computer Graphics class over our final
 And I FINALLY recieved the team I will be working on this summer at Facebook. I was skeptical of the team at first, "Facebook Ads Monitoring", but with the description my manager sent me, it seems like it will be an interesting challenge: "This team is responsible for processing all of Facebook’s ads revenue and we heavily use concepts from distributed systems, concurrent programming and data structures; coding is mostly in C++ 11/14". Pretty excited to continue in C++, which I have been using all year thanks to Downing's OOP and (not Downing's) Computer Graphics. 
 
 ### What’s in my way
-DCCCD's inability to answer an email or phone call is driving me nuts right now. I'm trying to enroll in government classes during their maymester but there system is blocking me for false reasons.
+DCCCD's inability to answer an email or phone call is driving me nuts right now. I'm trying to enroll in government classes during their maymester but their system is blocking me for false reasons.
 
 ### What will I do next week
 This week will be action-packed, and by "action" I mean studying and homework. I've got two tests on the last two days of classes, and my final project for Computer Graphics due Friday.
