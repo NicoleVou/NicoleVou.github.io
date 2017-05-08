@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Last Week SWE
+title: Final Week SWE
 ---
 
 ### Experience in this class 
 This past week in class we continued the student presentations. Since we had our final exam on Thursday, we only had class Monday and Wednesday. The final 2! While their was no grade incentive to attend these last classes (no quiz and nothing to be tested on), I still went to all of them. I found it interesting that the way each group went about their project differed a good amount. 
+
+I've had a great time this year with Downing and will truly miss being in his classes! 
 
 ### Past week  
 This past week was action packed with tests, homeworks, work, and projects. I had the SWE test on Thursday, and a Computer Networks test on Friday. Sadly enough, Friday was also the last day of my internship with Under Armour. I had a great time working on MapMyFitness and will very much miss the entire team. I also turned 21 (whoop whoop!) Thursday, but had to postpone all the festivities until Friday night. Atleast I got to take a shot (of tequila) with my manager before I left.
@@ -16,3 +18,4 @@ Nothing is in my way anymore this year! Except for the graphics project I have d
 Next week, after I finish my final Graphics project I really have no game plan for what I am going to do. I'm just going to wake up each morning and see what I feel like doing.
 
 ### Pick-of-the-week
+Gotta recommend the app I've been working on for the past year with Under Armour. MapMyFitness gives you the tools to easily track your workouts! http://www.mapmyfitness.com/us/
